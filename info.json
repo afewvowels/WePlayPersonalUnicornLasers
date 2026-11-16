@@ -1,0 +1,9 @@
+{
+  "name": "WePlayPersonalUnicornLasers",
+  "version": "0.2.0",
+  "title": "WePlay: Personal Unicorn Lasers",
+  "author": "WePlay",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0", "WePlayBeamLib >= 0.17.0"],
+  "description": "Personal laser defense fires rainbow beams, with the colors streaming toward the target. Works with modded personal laser defenses too. Laser turrets are left as they are."
+}

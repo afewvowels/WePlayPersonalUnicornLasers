@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2026-11-16
+  Changes:
+    - Rainbow scale setting from 1 to 5: 1 is one long rainbow over 24 tiles (as before), 5 is a tight rainbow every tile and a half.
+    - Flow speed setting from 1x to 4x, replacing flow speed in tiles per second.
+    - Smaller rainbows are drawn with shorter pieces so every color shows.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-11-16
+  Features:
+    - Personal laser defense (vanilla and modded) fires flowing rainbow beams, drawn with WePlay: Beam Library.
+    - Colors stream toward the target on one shared clock, so every beam stays in sync.
+    - Map settings for rainbow length, flow speed and saturation.
